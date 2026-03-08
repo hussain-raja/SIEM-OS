@@ -61,6 +61,4 @@ graph TD
     E -->|Threat Identified| F[Active Defense: Firewall Block]
     C -->|Push Updates| G[React Dashboard]
 
-```
-
 
