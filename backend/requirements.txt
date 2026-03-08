@@ -1,0 +1,30 @@
+sqlalchemy
+alembic
+
+# Web Framework & Server
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# Database (MongoDB)
+motor
+dnspython
+
+# AI & Data Science
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+
+# Security & Utilities
+passlib[bcrypt]
+python-jose[cryptography]
+requests
+bcrypt
+
+# Reporting & Visualization
+fpdf
+matplotlib
+seaborn
