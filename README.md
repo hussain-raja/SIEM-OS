@@ -44,7 +44,7 @@
 
 - **Backend:** FastAPI (Python), Motor (Async MongoDB Atlas), JWT Auth.
 
-- **Machine Learning:** XGBoost, Scikit-Learn, Pandas, NumPy.
+- **Machine Learning:** XGBoost, Random Forest, Isolation Forest, Scikit-Learn, Pandas, NumPy.
 
 - **Network:** Scapy, Win32EvtLog.
 
