@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ SIEM-OS Professional
+# 🛡️ SIEM-OS
 **The Next-Generation AI-Driven Security Information and Event Management System**
 
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
